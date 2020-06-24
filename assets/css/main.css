@@ -2314,12 +2314,14 @@ input, select, textarea {
 	label {
 		display: block;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		text-decoration: none;
+		display: inline-block;
 		font-weight: 900;
 		line-height: 1.5;
 		letter-spacing: 0.075em;
 		font-size: 0.8rem;
 		text-transform: uppercase;
-		margin: 0 0 0.75rem 0;
+		margin: 0 0 1.5rem 0;
 	}
 
 		@media screen and (max-width: 980px) {
