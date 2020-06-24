@@ -13,7 +13,7 @@
 
 		li {
 			display: inline-block;
-			padding: 0 0.5rem 0 0;
+			padding: 0 1rem 0 0;
 			vertical-align: middle;
 
 			&:last-child {
@@ -29,6 +29,7 @@
 					text-align: center;
 					border-radius: 100%;
 					font-size: 1.25rem;
+					text-decoration: none;
 				}
 			}
 		}
