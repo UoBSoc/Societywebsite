@@ -2804,13 +2804,15 @@ input, select, textarea {
 
 	ul.icons {
 		cursor: default;
+		text-decoration: none;
 		list-style: none;
-		padding-left: 0;
+		padding-left: 1;
 	}
 
 		ul.icons li {
 			display: inline-block;
-			padding: 0 0.5rem 0 0;
+			text-decoration: none;
+			padding: 0 1rem 0 0;
 			vertical-align: middle;
 		}
 
@@ -2823,6 +2825,7 @@ input, select, textarea {
 				height: 2.25rem;
 				line-height: 2.25rem;
 				display: inline-block;
+				text-decoration: none;
 				text-align: center;
 				border-radius: 100%;
 				font-size: 1.25rem;
