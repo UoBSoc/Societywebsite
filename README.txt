@@ -1,5 +1,5 @@
-This is a website built for the University of Birmingham Anime and Manga society and based on the HTML5 UP template "Massive". Full credit for the original template goes to the
-respective designers of the template.
+This is a website built for the University of Birmingham Anime and Manga society and based on the HTML5 UP template "Massive". 
+Full credit for the original template goes to the designer of the template, @ajlkn.
 
 Massively by HTML5 UP
 html5up.net | @ajlkn
