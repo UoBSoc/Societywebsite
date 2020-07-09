@@ -4494,7 +4494,6 @@ input, select, textarea {
 
 	.discord_widget {
   		position: relative;
-		padding-bottom: 142%;
 		}
 		iframe {
 		position: absolute;
