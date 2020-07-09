@@ -4493,7 +4493,7 @@ input, select, textarea {
 
 	.discord_widget {
   		position: relative;
-  		padding-bottom: 105%;
+  		padding-bottom: 100%;
 		}
 		iframe {
 		padding-left: 15%;
