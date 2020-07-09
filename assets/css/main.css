@@ -4493,11 +4493,15 @@ input, select, textarea {
 /* Discord Widget */
 
 	.discord_widget {
-    			position: absolute;
-			}
+  		position: relative;
+		padding-bottom: 142%;
+		}
 		iframe {
-			height: 500px;
-    			width: 350px;
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
 		}
 
 /* Nav Panel */
