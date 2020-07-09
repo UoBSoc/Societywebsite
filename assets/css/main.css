@@ -4495,8 +4495,8 @@ input, select, textarea {
 	#discord_widget
 		{
     			position: relative;
-    			height: 100%;
-   			width: 100%; 
+    			height: 200%;
+   			width: 50%; 
 		}
 
 }
