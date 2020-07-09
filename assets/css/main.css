@@ -4490,7 +4490,7 @@ input, select, textarea {
 
 		}
 
-/* Discord Widget */
+/* Discord Widget
 
 	.discord_widget {
 		position: relative;
@@ -4498,12 +4498,9 @@ input, select, textarea {
 		}
 		iframe{
 		position: absolute;
-		top: 0;
-		left: 0;
-		width: 100%;
-		height: 200%;
+		height: 100%;
 	}
-
+*/
 /* Nav Panel */
 
 	#navPanelToggle {
