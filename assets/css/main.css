@@ -4493,7 +4493,7 @@ input, select, textarea {
 /* Discord Widget */
 
 	.discord_widget {
-    			position: relative;
+    			position: absolute;
 			height: 100%;
     			width: 100%;
 		}
