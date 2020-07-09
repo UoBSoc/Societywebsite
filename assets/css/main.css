@@ -4494,11 +4494,11 @@ input, select, textarea {
 
 	.discord_widget {
     			position: absolute;
+			}
+		iframe {
 			height: 500px;
     			width: 350px;
 		}
-
-}
 
 /* Nav Panel */
 
