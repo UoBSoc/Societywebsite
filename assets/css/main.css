@@ -4503,6 +4503,12 @@ input, select, textarea {
 		width: 100%;
 		height: 100%;
 	}
+	@media (min-width:1025px) { 
+    		.discord_widget {
+ 			height="100%"
+			width="100%"
+    }
+}
 
 /* Nav Panel */
 
