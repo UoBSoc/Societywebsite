@@ -4308,11 +4308,6 @@ input, select, textarea {
 			#footer {
 				display: block;
 			}
-			
-				#footer > discord {
-					width="500" 
-					height="650"
-				}
 
 				#footer > section {
 					border-top: solid 2px #e2e2e2;
@@ -4355,11 +4350,6 @@ input, select, textarea {
 		}
 
 		@media screen and (max-width: 736px) {
-			
-			#footer > discord {
-				width="350" 
-				height="500"
-			}
 
 			#footer > section {
 				padding: 2rem 2rem 0.1rem 2rem ;
@@ -4396,11 +4386,6 @@ input, select, textarea {
 			#footer {
 				width: 100%;
 			}
-			
-				#footer > discord {
-					width="250" 
-					height="400"
-				}
 
 		}
 
@@ -4504,6 +4489,20 @@ input, select, textarea {
 				}
 
 		}
+
+/* Discord Widget */
+
+	.discord_widget {
+		position: relative;
+		padding-bottom: 56.25%; /* 16:9, for an aspect ratio of 1:1 change to this value to 100% */ 
+		}
+		iframe{
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+	}
 
 /* Nav Panel */
 
